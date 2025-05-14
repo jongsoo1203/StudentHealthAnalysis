@@ -24,8 +24,3 @@ What continuous probability distribution best models resting heart rate among co
 
 > **Question:**  
 Does self-reported stress level differ significantly between students with different levels of physical activity (High, Moderate, Low) in the *Students Mental Health Assessments* dataset? We apply a one-way ANOVA to test for group differences in stress.
-
----
-
-## 📁 Folder Structure
-
