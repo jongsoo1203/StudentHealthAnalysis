@@ -1,0 +1,5 @@
+One-Way ANOVA: Stress by Physical Activity Level
+Groups tested: ['High', 'Moderate', 'Low']
+F-statistic = 0.2492
+p-value     = 0.7794
+Result: No statistically significant differences between groups (p กร 0.05)

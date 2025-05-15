@@ -1,0 +1,11 @@
+Normal Distribution MLE:
+  mu (mean) = 70.1019
+  sigma (std)  = 9.5399
+  95% CI for mean: [69.5106, 70.6931]
+  95% CI for variance: [83.5309, 99.5447]
+
+Gamma Distribution MLE:
+  shape (k) = 53.2915
+  scale (theta) = 1.3154
+  95% CI for shape: [49.2770, 58.1642]
+  95% CI for scale: [1.2068, 1.4222]
